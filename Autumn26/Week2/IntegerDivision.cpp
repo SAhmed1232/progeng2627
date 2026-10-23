@@ -1,0 +1,8 @@
+#include <iostream>
+int main(){
+    std::cout << 5/2;
+    std::cout << std::endl;
+
+    std::cout << 5/2.0;
+
+}
